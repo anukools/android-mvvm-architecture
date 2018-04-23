@@ -44,6 +44,8 @@ This repository contains a detailed sample app that implements MVVM architecture
 6. [Migrating from RxJava 1.0 to RxJava 2.0 and Learn RxJava by Examples](https://blog.mindorks.com/migrating-from-rxjava1-to-rxjava2-5dac0a94b4aa#.3lg46kora)
 7. [Android Tinder Swipe View Example](https://blog.mindorks.com/android-tinder-swipe-view-example-3eca9b0d4794#.u7i7jbbvy)
 8. [Debugging Android Databases And Shared Preferences In The Easiest Way](https://blog.mindorks.com/debugging-android-databases-and-shared-preferences-in-the-easiest-way-e5f705dfc06b#.pxw0hvnws)
+9. [New Dagger2 implementation for android(Used in this project)](https://blog.mindorks.com/the-new-dagger-2-android-injector-cbe7d55afa6a)
+
 
 ### Looking for Kotlin MVP Architecture - [Check here](https://github.com/MindorksOpenSource/android-kotlin-mvp-architecture)
 
